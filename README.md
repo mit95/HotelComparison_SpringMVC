@@ -33,3 +33,6 @@ Technologies used:
 - PDF viewer
 
 Screenshots:
+
+1) Owner Dashboard:
+<img src="screenshots/ownerDashBoard.png" width="700">
